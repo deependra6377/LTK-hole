@@ -1,0 +1,16 @@
+{
+  "name": "Hole Detection Scanner",
+  "short_name": "HoleDetector",
+  "description": "Scan your innerwear for holes and get instant discount codes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
